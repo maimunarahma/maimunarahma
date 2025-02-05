@@ -8,6 +8,16 @@
 
 <p align="left">Hello! I'm Maimuna Rahman Mysha, a dedicated and passionate undergraduate student pursuing a degree in Computer Science and Engineering at Jashore University of Science and Technology. In addition to competitive programming, I am enthusiastic about web development. I am learning and exploring new technologies to build responsive and user-friendly web applications. My goal is to blend my problem-solving skills with web development to create impactful and innovative digital solutions.</p>
 
+- 📚 I’m currently learning *Next JS.*
+
+- 👯 I’m looking to collaborate on *Linkedin & Github.*
+
+- 💬 Ask me about *Web Or MERN Stack Development.*
+
+- 📫 Reach me *maimunarahman301@gmail.com*
+
+<br><br>
+
 ###
 
 <h2 align="center">My Frontend Skills</h2>
@@ -62,7 +72,7 @@
 
 ###
 
-🔥GitHub Activity Streak
+<h2>🔥GitHub Activity Streak</h2>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=maimunarahma&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="800" />
